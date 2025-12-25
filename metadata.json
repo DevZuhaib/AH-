@@ -1,0 +1,7 @@
+{
+  "name": "NexusAI - Premium AI Content Studio",
+  "description": "A cutting-edge AI SaaS platform for image and video generation, featuring a cinematic 3D interface and a powerful CMS.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
